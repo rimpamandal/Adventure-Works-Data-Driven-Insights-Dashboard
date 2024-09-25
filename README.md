@@ -47,6 +47,10 @@ Our product performance analysis reveals notable successes and opportunities acr
 - *Regions Needing Improvement:*
   - **Central USA:** Recorded the lowest performance with a total order quantity of **30** and an average order value of **$349**, falling short by **62.5%**. The **Mountain-200 Silver, 38** was the highest-selling product, but significant improvements are needed in sales volume.
 
+
+![Product](https://github.com/user-attachments/assets/c167a316-63dd-4c8d-9477-4f2799c077f0)
+
+
 ### 🌟 **Ideal Customer Profile**
 
 Our customer profile helps us understand who drives our sales and where to focus our marketing efforts:
@@ -59,6 +63,10 @@ Our customer profile helps us understand who drives our sales and where to focus
 
 - *Regions Needing Action:*
   - **Central USA:** Average sales per customer are **$0.17**, with a high percentage of male and non-homeowner customers. Strategies should focus on increasing sales contributions and targeting homeowners.
+
+
+![Screenshot 2024-09-25 082343](https://github.com/user-attachments/assets/6752d656-aa28-4cdb-8436-81927a4f5ac3)
+
 
 ### 🔄 **Return Performance: A Closer Look**
 
@@ -73,6 +81,11 @@ Returns impact our profitability and customer experience. Here’s how we perfor
 - *Regions Requiring Action:*
   - **Australia:** Return rate of **2.25%** with a significant loss of **3.24%** suggests a need for improved product quality or customer satisfaction measures.
   - **France:** A return rate of **2.37%** with a high loss of **3.43%** indicates a pressing need for return management strategies.
+
+
+![Return](https://github.com/user-attachments/assets/01aefedb-66ed-48b8-8850-38d5d352786b)
+
+
 
 ### **Growth Insights**
 
@@ -97,6 +110,10 @@ Regionally, the United Kingdom emerged as a leader, with a 174.12% increase in s
 - *Overall Trends: Sustained Growth*
 
 Total profit increased by 227.19%, and total sales rose by 212.14% between January 2015 and June 2017. These trends began accelerating in mid-2016, indicating a strong upward trajectory for Adventure Works.
+
+
+![Growth](https://github.com/user-attachments/assets/e5a74354-3bd3-41f8-9a34-d9dcb68155c6)
+
 
 ## *Conclusion: Strategic Focus for Continued Success*
 
